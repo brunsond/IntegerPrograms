@@ -1,4 +1,5 @@
 #Find gcd of numbers a and b.
+#Employs Euclidean Algorithm.
 a = int(input('First Number: '))
 b = int(input('First Number: '))
 
