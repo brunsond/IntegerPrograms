@@ -5,7 +5,7 @@ b = int(input('First Number: '))
 
 def lcm(a,b):
     A = a
-    B = b;
+    B = b
     if (a>b):
         temp = b
         b = a
